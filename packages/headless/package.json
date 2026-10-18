@@ -129,7 +129,7 @@
     "@nuxt/kit": "^4.4.8",
     "@nuxt/schema": "^4.4.8",
     "fast-glob": "^3.3.3",
-    "nuxt": ">=4.4.8",
+    "nuxt": ">=4.5.1",
     "typescript": "6.0.3",
     "unplugin-vue": "7.2.0",
     "unplugin-vue-components": "^32.1.0",
